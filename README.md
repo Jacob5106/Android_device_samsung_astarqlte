@@ -1,0 +1,1 @@
+# Android_device_samsung_astarqlte
