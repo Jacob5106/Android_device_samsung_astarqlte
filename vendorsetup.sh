@@ -14,5 +14,5 @@
 # limitations under the License.
 #
 
-add_lunch_combo omni_astarqlte-userdebug
-add_lunch_combo omni_astarqlte-eng
+COMMON_LUNCH_CHOICES omni_astarqlte-userdebug
+COMMON_LUNCH_CHOICES omni_astarqlte-eng
