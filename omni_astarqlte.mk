@@ -14,6 +14,15 @@
 # limitations under the License.
 #
 
+[
+  {
+    "remote":"github",
+    "repository": "TeamWin/android_device_qcom_common",
+    "target_path": "device/qcom/common",
+    "revision":"android-10"
+  }
+]
+
 # Specify phone tech before including full_phone
 $(call inherit-product, vendor/omni/config/gsm.mk)
 
